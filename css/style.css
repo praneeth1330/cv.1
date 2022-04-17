@@ -1,0 +1,89 @@
+body{
+  background-color: #E9D5DA;
+
+  text-align: center;
+  margin: 0;
+}
+.top{
+  background-color: #E9D5DA;
+  margin: 0;
+}
+h1{
+  font-size: 9.375rem;
+font-family: 'Beau Rivage', cursive;
+text-decoration: underline;
+color: #363062;
+}
+h2{
+  color: #827397;
+}
+h3{
+  color: #827397;
+}
+.quote{
+  position: absolute;
+  top: 350px;
+  right: 525px;
+  font-family: 'Beau Rivage', cursive;
+  font-size: 1.875rem;
+  color: #363062;
+
+}
+.photoshop-main{
+  max-width: 50px;
+  max-height: 50px;
+  position: absolute;
+  top: 50px;
+  right: 170px;
+}
+/*.top{
+  background-color: #E9D5DA;
+  width: 200px;
+  height:200px;
+  position: absolute;
+  top: 400px;
+  left:  400px;
+
+}
+.middle{
+  background-color: #827397;
+  width: 200px;
+  height:200px;
+position: absolute;
+top: 200px;
+left: 200px;
+
+
+
+}
+.bottom{
+  background-color: #4D4C7D;
+  width: 200px;
+  height:200px;
+position: absolute;
+*/
+
+
+.ai{
+  max-width:100px ;
+  max-height: 100px;
+  position: absolute;
+  top: 50px;
+
+
+}
+.in{
+  max-width:200px ;
+  max-height: 100px;
+  position: absolute;
+  top: 150px;
+  left: 200px;
+}
+.img-skill{
+
+  max-width: 200px;
+  max-height: 200px;
+}
+.profile{
+
+}
